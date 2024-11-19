@@ -1,1 +1,1 @@
-# ImageRecognitionHandson
+# ObjectDetectionHandson
